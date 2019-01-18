@@ -1,7 +1,0 @@
-App:
-  mysql:
-    host:
-    port:
-    databases:
-    username:
-    password:
